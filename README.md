@@ -17,7 +17,6 @@ I am a recent CS/Information Systems graduate. Super interested in Data Engineer
 </div>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mantany&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mantany&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
   <!---
