@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Lennard!
 Currently in the process to migrate from gitlab to github!
-I am a recent CS/Information Systems graduate. Super interested in Data Engineering.
+I am a recent CS/Information Systems graduate. 
 
 
 ## Languages and Tools (Selection):
